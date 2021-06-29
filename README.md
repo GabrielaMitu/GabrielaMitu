@@ -39,4 +39,4 @@
 ## Where You Can Find Me 🗺️ 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriela-yukari-mitu-691537165)](https://www.linkedin.com/in/gabriela-yukari-mitu-691537165)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:yaronhuang@foxmail.com)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielayukarimitu@gmail.com)](mailto:gabrielayukarimitu@gmail.com)
