@@ -5,9 +5,8 @@
 
 ## About Me 🤔 
 -  **College :**  Insper 👩‍🎓
--  **Learning :** Full-Stack :fire:	
+-  **Learning :** Focusing on SQL :fire:	
 -  **Hobby :** Games 🎮
--  **Addiction :** Look for courses to learn more to code 💻 | Birds 🐦
 -  **Fun fact :** When most developer loves coffee, I prefer tea :tea: :heart: 
 
 
