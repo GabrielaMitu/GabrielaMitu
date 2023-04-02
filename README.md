@@ -1,11 +1,11 @@
-<h1 align="center"> <img src="https://media.giphy.com/media/L12CyKeFwRwp4dphvt/giphy.gif" width="40px"> Hello, I'm Gabriela Mitu <img src="https://media.giphy.com/media/L12CyKeFwRwp4dphvt/giphy.gif" width="40px">  </h1>
+<h1 align="center"> Hello, I'm Gabriela Mitu  </h1>
 
-<h3 align="center"> I'm a 20 year old Computer Engineering Student </h3> <br>
+<h3 align="center"> I'm a 22 year old Computer Engineering Student </h3> <br>
 
 
 ## About Me 🤔 
 -  **College :**  Insper 👩‍🎓
--  **Learning :** Focusing on SQL :fire:	
+-  **Learning :** Focusing on Cybersecurity :fire:	
 -  **Hobby :** Games 🎮
 -  **Fun fact :** When most developer loves coffee, I prefer tea :tea: :heart: 
 
